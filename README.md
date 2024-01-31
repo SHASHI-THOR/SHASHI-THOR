@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shashikant</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate Software Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi-thor&label=Profile%20views&color=0e75b6&style=flat" alt="shashi-thor" /> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Docker And Kubernetes**
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **How To Code**
 
 - 📫 How to reach me **shashikantdat2000@gmail.com**
 
